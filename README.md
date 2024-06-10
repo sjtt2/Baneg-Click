@@ -3,6 +3,7 @@ banana、egg等游戏的挂机点击工具
 
 下载地址：
 https://github.com/sjtt2/Baneg-Click/releases/tag/v1
+
 https://xuyangming.lanzoub.com/i3pWf21avk6b
 
 使用方法：
